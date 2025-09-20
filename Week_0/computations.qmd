@@ -9,6 +9,8 @@ html:
     fig-width: 6
 ---
 
+Git Repository: https://github.com/lcalaff/GSB-S544/tree/main/Week_0
+
 This dataset contains a subset of the fuel economy data from the EPA.
 
 ```{python}
